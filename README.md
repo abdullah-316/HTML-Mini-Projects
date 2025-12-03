@@ -1,0 +1,4 @@
+HTML Mini Project
+
+This repository contains a simple HTML-based mini project created for basic learning and practice. 
+The project focuses on understanding core HTML structure and essential elements.
